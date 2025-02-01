@@ -1,0 +1,6 @@
+pandas
+numpy
+matplotlib
+seaborn
+sklearn
+python==3.8
